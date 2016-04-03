@@ -1,0 +1,23 @@
+C:\Users\Kabeltv\documents\visual studio 2013\Projects\Omega\Omega\Omega\obj\x86\Debug\Omega.csprojResolveAssemblyReference.cache
+C:\Users\Kabeltv\documents\visual studio 2013\Projects\Omega\Omega\Omega\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Kabeltv\documents\visual studio 2013\Projects\Omega\Omega\Omega\bin\x86\Debug\Omega.exe
+C:\Users\Kabeltv\documents\visual studio 2013\Projects\Omega\Omega\Omega\bin\x86\Debug\Omega.pdb
+C:\Users\Kabeltv\documents\visual studio 2013\Projects\Omega\Omega\Omega\obj\x86\Debug\Omega.exe
+C:\Users\Kabeltv\documents\visual studio 2013\Projects\Omega\Omega\Omega\obj\x86\Debug\Omega.pdb
+C:\Users\Kabeltv\documents\visual studio 2013\Projects\Omega\Omega\Omega\bin\x86\Debug\Content\player.xnb
+C:\Users\Kabeltv\documents\visual studio 2013\Projects\Omega\Omega\Omega\bin\x86\Debug\Content\stdBlock.xnb
+C:\Users\Kabeltv\documents\visual studio 2013\Projects\Omega\Omega\Omega\bin\x86\Debug\Content\Collision.xnb
+C:\Users\Kabeltv\Dropbox\Projekt\C#\Omega\Omega\Omega\bin\x86\Debug\Content\player.xnb
+C:\Users\Kabeltv\Dropbox\Projekt\C#\Omega\Omega\Omega\bin\x86\Debug\Content\stdBlock.xnb
+C:\Users\Kabeltv\Dropbox\Projekt\C#\Omega\Omega\Omega\bin\x86\Debug\Content\Collision.xnb
+C:\Users\Kabeltv\Dropbox\Projekt\C#\Omega\Omega\Omega\bin\x86\Debug\Omega.exe
+C:\Users\Kabeltv\Dropbox\Projekt\C#\Omega\Omega\Omega\bin\x86\Debug\Omega.pdb
+C:\Users\Kabeltv\Dropbox\Projekt\C#\Omega\Omega\Omega\obj\x86\Debug\Omega.csprojResolveAssemblyReference.cache
+C:\Users\Kabeltv\Dropbox\Projekt\C#\Omega\Omega\Omega\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Kabeltv\Dropbox\Projekt\C#\Omega\Omega\Omega\obj\x86\Debug\Omega.exe
+C:\Users\Kabeltv\Dropbox\Projekt\C#\Omega\Omega\Omega\obj\x86\Debug\Omega.pdb
+C:\Users\Kabeltv\Dropbox\Projekt\C#\Omega\Omega\Omega\bin\x86\Debug\Content\quit.xnb
+C:\Users\Kabeltv\Dropbox\Projekt\C#\Omega\Omega\Omega\bin\x86\Debug\Content\start.xnb
+C:\Users\Kabeltv\Dropbox\Projekt\C#\Omega\Omega\Omega\bin\x86\Debug\Content\pauseFont.xnb
+C:\Users\Kabeltv\Dropbox\Projekt\C#\Omega\Omega\Omega\bin\x86\Debug\Content\MapFont.xnb
+C:\Users\Kabeltv\Dropbox\Projekt\C#\Omega\Omega\Omega\bin\x86\Debug\Content\playerWalkSheet.xnb

@@ -1,0 +1,3 @@
+100 50 playerWalkSheet
+30 300 stdBlock
+80 200 stdBlock

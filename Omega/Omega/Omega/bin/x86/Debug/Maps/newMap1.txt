@@ -1,0 +1,12 @@
+10 10 playerWalkSheet
+-2 469 stdBlock
+140 469 stdBlock
+296 429 stdBlock
+455 388 stdBlock
+614 340 stdBlock
+448 295 stdBlock
+271 251 stdBlock
+422 201 stdBlock
+587 139 stdBlock
+415 103 stdBlock
+232 65 stdBlock

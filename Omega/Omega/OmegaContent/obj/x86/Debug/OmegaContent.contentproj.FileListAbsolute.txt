@@ -1,0 +1,2 @@
+C:\Users\Kabeltv\documents\visual studio 2013\Projects\Omega\Omega\OmegaContent\obj\x86\Debug\OmegaContent.contentprojResolveAssemblyReference.cache
+C:\Users\Kabeltv\Dropbox\Projekt\C#\Omega\Omega\OmegaContent\obj\x86\Debug\OmegaContent.contentprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+C:\Users\Kabeltv\Dropbox\Projekt\C#\LevelEditorOmega\LevelEditorOmega\LevelEditorOmega\bin\x86\Debug\Content\stdBlock.xnb
+C:\Users\Kabeltv\Dropbox\Projekt\C#\LevelEditorOmega\LevelEditorOmega\LevelEditorOmega\bin\x86\Debug\LevelEditorOmega.exe
+C:\Users\Kabeltv\Dropbox\Projekt\C#\LevelEditorOmega\LevelEditorOmega\LevelEditorOmega\bin\x86\Debug\LevelEditorOmega.pdb
+C:\Users\Kabeltv\Dropbox\Projekt\C#\LevelEditorOmega\LevelEditorOmega\LevelEditorOmega\obj\x86\Debug\LevelEditorOmega.csprojResolveAssemblyReference.cache
+C:\Users\Kabeltv\Dropbox\Projekt\C#\LevelEditorOmega\LevelEditorOmega\LevelEditorOmega\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Kabeltv\Dropbox\Projekt\C#\LevelEditorOmega\LevelEditorOmega\LevelEditorOmega\obj\x86\Debug\LevelEditorOmega.exe
+C:\Users\Kabeltv\Dropbox\Projekt\C#\LevelEditorOmega\LevelEditorOmega\LevelEditorOmega\obj\x86\Debug\LevelEditorOmega.pdb
+C:\Users\Kabeltv\Dropbox\Projekt\C#\LevelEditorOmega\LevelEditorOmega\LevelEditorOmega\bin\x86\Debug\Content\Tutorial.xnb
